@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "findLongestWordTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests Assignment1Tests.findLongestWordTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "findLongestWordTest2",
+      "setup": "",
+      "run": "gradle test --tests Assignment1Tests.findLongestWordTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "gcdSortTest1",
+      "setup": "",
+      "run": "gradle test --tests Assignment1Tests.gcdSortTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "gcdSortTest2",
+      "setup": "",
+      "run": "gradle test --tests Assignment1Tests.gcdSortTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "gcdSortTest3",
+      "setup": "",
+      "run": "gradle test --tests Assignment1Tests.gcdSortTest3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
